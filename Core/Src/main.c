@@ -135,6 +135,12 @@ int main(void)
 //		x++;
 //		if(x==12)x=0;
 //		HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_2);
+
+
+
+
+
+
 		if(CalWgtFlag)
 		{
 			CalWgtFlag = 0;
