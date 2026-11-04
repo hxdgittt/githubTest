@@ -157,6 +157,7 @@ int main(void)
 		
 		printf("weight1    = %f\r\n",hx_ch1.weight);
 		printf("weight2    = %f\r\n" ,hx_ch2.weight);
+		printf("hello\r\n");
 	  
   }
   /* USER CODE END 3 */
