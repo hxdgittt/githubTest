@@ -160,6 +160,7 @@ int main(void)
 		printf("hello\r\n");
 		printf("hello\r\n");
 		printf("hello\r\n");		
+    printf("giehub");
 	  
   }
   /* USER CODE END 3 */
