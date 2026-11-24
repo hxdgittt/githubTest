@@ -157,6 +157,8 @@ int main(void)
 		
 		printf("weight1    = %f\r\n",hx_ch1.weight);
 		printf("weight2    = %f\r\n" ,hx_ch2.weight);
+    printf("Branch\r\n");
+    printf("Branch1\r\n");
 	  
   }
   /* USER CODE END 3 */
