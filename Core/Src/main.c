@@ -162,6 +162,8 @@ int main(void)
 		printf("hello\r\n");		
     printf("giehub");
 		printf("gitignore");
+		printf("gitignoreagain");
+    	printf("gitignoreagain");
 	  
   }
   /* USER CODE END 3 */
