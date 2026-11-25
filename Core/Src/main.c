@@ -164,6 +164,7 @@ int main(void)
 		printf("gitignore");
 		printf("gitignoreagain");
     	printf("gitignoreagain");
+		printf("killkill");
 	  
   }
   /* USER CODE END 3 */
